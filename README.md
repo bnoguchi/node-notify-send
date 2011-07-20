@@ -25,6 +25,7 @@ growl.critical.notify('Announcement', 'Red Alert!');
 var low = growl.low;
 low.notify('Non-important', 'Some low urgency message');
 
+// You can specify other options
 growl.timeout(2000).notify('Timing', "I'm out of here in 2");
 growl.icon('/home/nodejs/path/to/icon.png').notify('Incoming', 'sponsored message');
 growl.category('nodejs').notify('Release', 'v1.0 released');
