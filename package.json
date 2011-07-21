@@ -2,7 +2,7 @@
   "author": "Brian Noguchi <brian.noguchi@gmail.com> (https://github.com/bnoguchi)",
   "name": "notify-send",
   "description": "Ubuntu growl-like notifications for node.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/bnoguchi/node-notify-send",
   "repository": {
     "type": "git",
